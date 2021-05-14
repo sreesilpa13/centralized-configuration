@@ -7,5 +7,5 @@ eureka:
   instance:
     hostname: localhost
     
-user:
+customer:
   name: deepthi    
